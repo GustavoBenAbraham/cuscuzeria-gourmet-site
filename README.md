@@ -1,2 +1,3 @@
-# cuscuzeria-gourmet-site
-Published website for Cuscuzeria Gourmet. Deployment files only.
+# Cuscuzeria Gourmet
+
+Published website files. The application source is maintained in a separate private repository.
